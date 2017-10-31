@@ -20,4 +20,4 @@
   8. Fin.
 
 # Diagrama de Flujo
-  ![Codigo Cesar](/asstent/images/codeCesar.jpg)
+  ![Codigo Cesar](asstent/images/codeCesar.jpg)

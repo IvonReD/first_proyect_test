@@ -18,4 +18,4 @@ Crea una web que pida, por medio de un prompt(), el número de una tarjeta de cr
       8.2 Si el residuo de la division es diferente a 0, es invalida!!
 
 # Diagrama de Flujo
-  ![Tarjeta Valida](/asstent/images/validCard.jpg)
+  ![Tarjeta Valida](asstent/images/validCard.jpg)
